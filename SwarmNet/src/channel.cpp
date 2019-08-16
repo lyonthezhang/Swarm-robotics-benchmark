@@ -1,5 +1,5 @@
 #include "channel.h"
-
+#testtext
 
 Channel::Channel() {
     init(0, 0, false);
